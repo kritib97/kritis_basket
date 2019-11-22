@@ -1,0 +1,2 @@
+# kritis_basket
+My python code implements market basket analysis using the apyori package on data that is not in the form required by the apriori function to work on. It takes the input in the form of list of lists with the inner lists being the items bought in the same transaction.  My dataframe has model IDs in a single column which I need to group based on unique transactions. Also, to view the rules easily, I extracted the required values and put them in a dataframe.
